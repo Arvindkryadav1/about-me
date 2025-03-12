@@ -1,3 +1,4 @@
+import React from 'react';
 
 const AboutMe: React.FC = () => {
   return (
@@ -6,7 +7,7 @@ const AboutMe: React.FC = () => {
         <h1 className="text-5xl font-bold text-blue-600 mb-6">About Me</h1>
         
         <p className="text-lg text-gray-700 leading-relaxed font-light mb-4">
-          Hi, I'm <span className="font-semibold text-blue-500">Arvind</span>, a dedicated backend developer with over a year of experience in building scalable applications.
+          Hi, I am <span className="font-semibold text-blue-500">Arvind</span>, a dedicated backend developer with over a year of experience in building scalable applications.
           My journey began with a passion for coding, which evolved into a career in cloud computing and DevOps.
         </p>
 
